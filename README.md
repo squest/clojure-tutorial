@@ -17,5 +17,5 @@ Important exercises :
 Other learning resources : 
 
 1. <a href="https://clojuredocs.org/quickref" target="_blank">Clojure cheat-sheet</a>  
-2. <a href="http://clojure-doc.org/articles/content.html" target="_blank">Clojure communnity tutorial</a>  
+2. <a href="http://clojure-doc.org/articles/content.html" target="_blank">Clojure community tutorial</a>  
 3. <a href="http://www.braveclojure.com" target="_blank">Clojure for the brave and true</a>  

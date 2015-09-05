@@ -81,6 +81,37 @@
   (faktorial 2) => (* 2 (faktorial 1)) => (* 2 1)
   (faktorial 1) => 1)
 
+;; sum, product, take, drop, fibo
+
+(defn sum 
+  [xs]
+  (if (empty? xs)
+    0
+    (+ (first xs) (sum (rest xs)))))
+
+(defn sum'
+  [[x & xs]]
+  (if x (+ x (sum' xs)) 0))
+
+
+(defn drop'
+  [n xs]
+  (cond 
+    (zero? n) xs
+    (empty? xs) '()
+    :else (drop' (- n 1) (rest xs))))
+
+;; product, take, fibo
+;; map, reduce, filter, keep, 
+;; zipmap, merge, assoc, dissoc, dll
+
+(comment 
+  (drop 3 [1 2 3 4 5 6 7])
+  (drop 2 [2 3 4 5 6 7])
+  (drop 1 [3 4 5 6 7])
+  (drop 0 [3 4 5 6 7]) => xs)
+
+;; destructuring
 
 
 

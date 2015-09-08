@@ -8,7 +8,7 @@ If you don't then try <a href="https://github.com/Zenius2016/BoardAlfa">this one
 Youtube playlists :
 
 1. <a href="https://youtu.be/NXxJavT7ILY?list=PLlTjr2CPUG1-tA4FMIGCCyJFGuZbB-gpq" target="_blank">Basic part one</a>
-2. <a href="https://www.youtube.com/watch?v=o8wqw7A1xj8&list=PLlTjr2CPUG187bvI0lY00K6n1GVbyFLdU" target="_blank">Basic part two</a>  
+2. <a href="https://youtu.be/KLgrUWyqGgw?list=PLlTjr2CPUG187bvI0lY00K6n1GVbyFLdU" target="_blank">Basic part two</a>  
 
 Important exercises :
 
@@ -20,3 +20,10 @@ Other learning resources :
 1. <a href="https://clojuredocs.org/quickref" target="_blank">Clojure cheat-sheet</a>  
 2. <a href="http://clojure-doc.org/articles/content.html" target="_blank">Clojure community tutorial</a>  
 3. <a href="http://www.braveclojure.com" target="_blank">Clojure for the brave and true</a>  
+
+Tools :
+
+1. <a href="http://www.java.com/en/download/manual.jsp">JVM</a>
+2. <a href="http://leiningen.org/">Leiningen</a>
+3. <a href="https://sekao.net/nightcode/">Nightcode</a>
+4. <a href="https://github.com/jasongilman/SublimeClojureSetup">Sublime Clojure</a>

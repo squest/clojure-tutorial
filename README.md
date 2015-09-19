@@ -26,4 +26,4 @@ Tools :
 1. <a href="http://www.java.com/en/download/manual.jsp">JVM</a>
 2. <a href="http://leiningen.org/">Leiningen</a>
 3. <a href="https://sekao.net/nightcode/">Nightcode</a>
-4. <a href="https://github.com/jasongilman/SublimeClojureSetup">Sublime Clojure</a>
+4. If you need an advanced Clojure IDE, try Emacs+cider+paredit or IntelliJ with Cursive for a much more productive workflow and better integration with Paredit + Java environment (IntelliJ)

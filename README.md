@@ -9,9 +9,10 @@ Youtube playlists :
 
 1. <a href="https://youtu.be/NXxJavT7ILY?list=PLlTjr2CPUG1-tA4FMIGCCyJFGuZbB-gpq" target="_blank">Basic part one</a>
 2. <a href="https://youtu.be/KLgrUWyqGgw?list=PLlTjr2CPUG187bvI0lY00K6n1GVbyFLdU" target="_blank">Basic part two</a>  
-Special platlist(s) :
 
-1. <a href="https://www.youtube.com/playlist?list=PLlTjr2CPUG19Yq3XMnjfquTQdltu2QOOM" target="_blank">Using Paredit to boost productivity</a> (as of now, it's still being uploaded).
+Special playlist(s) :
+
+1. <a href="https://www.youtube.com/playlist?list=PLlTjr2CPUG19Yq3XMnjfquTQdltu2QOOM" target="_blank">Using Paredit to boost productivity</a> (as of now, it's still being uploaded).  
 
 Important exercises :
 

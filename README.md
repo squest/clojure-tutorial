@@ -9,7 +9,7 @@ Youtube playlists :
 
 1. <a href="https://youtu.be/NXxJavT7ILY?list=PLlTjr2CPUG1-tA4FMIGCCyJFGuZbB-gpq" target="_blank">Basic part one</a>
 2. <a href="https://youtu.be/KLgrUWyqGgw?list=PLlTjr2CPUG187bvI0lY00K6n1GVbyFLdU" target="_blank">Basic part two</a>
-3. <a href="https://www.youtube.com/watch?v=74lhwCaL5_g&list=PLlTjr2CPUG18iBKGdoSQQsoJJeErVrqyY" target="_blank">Basic part two</a>  
+3. <a href="https://www.youtube.com/watch?v=74lhwCaL5_g&list=PLlTjr2CPUG18iBKGdoSQQsoJJeErVrqyY" target="_blank">Basic part three</a>  
 
 Special playlist(s) :
 

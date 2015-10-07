@@ -3,9 +3,9 @@
 Clojure tutorial for ex-bocah2x zenx &amp; zenclub  
 
 This tutorial assumes you have an introductory programming background using Haskell.    
-If you don't then try [this one](https://github.com/Zenius2016/BoardAlfa).  
+If you don't then try [this one](https://github.com/Zenius2016/BoardAlfa). Why Clojure? [here](http://www.infoq.com/presentations/Simple-Made-Easy).
 
-## Youtube playlists (Table of content) :
+## Youtube Playlists (Table of content):
 
 1. [Language Basic & REPL](https://youtu.be/NXxJavT7ILY?list=PLlTjr2CPUG1-tA4FMIGCCyJFGuZbB-gpq)  
  1.1 [Installation & Clojure Introduction](https://www.youtube.com/watch?v=NXxJavT7ILY&feature=youtu.be&list=PLlTjr2CPUG1-tA4FMIGCCyJFGuZbB-gpq)   
@@ -19,7 +19,15 @@ If you don't then try [this one](https://github.com/Zenius2016/BoardAlfa).
  1.9 [Exercise 5: Defining a Function](https://www.youtube.com/watch?v=g5EqfyzuYl8&index=9&list=PLlTjr2CPUG1-tA4FMIGCCyJFGuZbB-gpq)  
  &nbsp;&nbsp;&nbsp;&nbsp;1.9.1  [Function can beget another](https://youtu.be/g5EqfyzuYl8?list=PLlTjr2CPUG1-tA4FMIGCCyJFGuZbB-gpq&t=8m49s)  
  &nbsp;&nbsp;&nbsp;&nbsp;1.9.2 [Higher-order function take function arguments](https://youtu.be/g5EqfyzuYl8?t=16m16s)
-2. <a href="https://youtu.be/KLgrUWyqGgw?list=PLlTjr2CPUG187bvI0lY00K6n1GVbyFLdU" target="_blank">Basic part two</a>
+2. [Source Code](https://www.youtube.com/watch?v=KLgrUWyqGgw&feature=youtu.be&list=PLlTjr2CPUG187bvI0lY00K6n1GVbyFLdU)  
+2.1 [How to Make Clojure File](https://www.youtube.com/watch?v=KLgrUWyqGgw&feature=youtu.be&list=PLlTjr2CPUG187bvI0lY00K6n1GVbyFLdU)  
+2.2 [4Clojure  Introduction](https://www.youtube.com/watch?v=ihX2k1Ig2q0&index=2&list=PLlTjr2CPUG187bvI0lY00K6n1GVbyFLdU)  
+2.3 [Conditional (`if` and `cond`) ](https://www.youtube.com/watch?v=o8wqw7A1xj8&list=PLlTjr2CPUG187bvI0lY00K6n1GVbyFLdU&index=3)  
+2.4 [Conditional Continue & Collections](https://www.youtube.com/watch?v=MhoS_U8eg10&index=4&list=PLlTjr2CPUG187bvI0lY00K6n1GVbyFLdU)  
+2.5 [Clojure Docs & Clojure Evaluation](https://www.youtube.com/watch?v=EyCbsZ-mVmI&index=5&list=PLlTjr2CPUG187bvI0lY00K6n1GVbyFLdU)  
+2.6 [Clojure Evaluation Continue](https://www.youtube.com/watch?v=v8edssoaXuo&index=6&list=PLlTjr2CPUG187bvI0lY00K6n1GVbyFLdU)  
+2.7 [Recursion ex. Factorial](https://www.youtube.com/watch?v=VBqGy5E0LwY&list=PLlTjr2CPUG187bvI0lY00K6n1GVbyFLdU&index=7)  
+2.8 [Recursion Continue](https://www.youtube.com/watch?v=D4gft10cC_E&index=8&list=PLlTjr2CPUG187bvI0lY00K6n1GVbyFLdU)  
 3. <a href="https://www.youtube.com/watch?v=74lhwCaL5_g&list=PLlTjr2CPUG18iBKGdoSQQsoJJeErVrqyY" target="_blank">Basic part three</a>  
 
 Special playlist(s) :

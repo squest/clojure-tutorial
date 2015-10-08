@@ -28,7 +28,15 @@ If you don't then try [this one](https://github.com/Zenius2016/BoardAlfa). Why C
 2.6 [Clojure Evaluation Continue](https://www.youtube.com/watch?v=v8edssoaXuo&index=6&list=PLlTjr2CPUG187bvI0lY00K6n1GVbyFLdU)  
 2.7 [Recursion ex. Factorial](https://www.youtube.com/watch?v=VBqGy5E0LwY&list=PLlTjr2CPUG187bvI0lY00K6n1GVbyFLdU&index=7)  
 2.8 [Recursion Continue](https://www.youtube.com/watch?v=D4gft10cC_E&index=8&list=PLlTjr2CPUG187bvI0lY00K6n1GVbyFLdU)  
-3. <a href="https://www.youtube.com/watch?v=74lhwCaL5_g&list=PLlTjr2CPUG18iBKGdoSQQsoJJeErVrqyY" target="_blank">Basic part three</a>  
+3. [Clojure Expression](https://www.youtube.com/watch?v=74lhwCaL5_g&list=PLlTjr2CPUG18iBKGdoSQQsoJJeErVrqyY)  
+3.1 [Function](https://www.youtube.com/watch?v=74lhwCaL5_g&list=PLlTjr2CPUG18iBKGdoSQQsoJJeErVrqyY)  
+3.2 [Data Structure](https://www.youtube.com/watch?v=IoJ22_Ro4M4&index=2&list=PLlTjr2CPUG18iBKGdoSQQsoJJeErVrqyY)  
+3.3 [`if` Conditional](https://www.youtube.com/watch?v=w7CR_rDC7tQ&list=PLlTjr2CPUG18iBKGdoSQQsoJJeErVrqyY&index=3)    
+3.4 [Recursion](https://www.youtube.com/watch?v=u6IDIX1rJV4&list=PLlTjr2CPUG18iBKGdoSQQsoJJeErVrqyY&index=4)  
+3.5 [True and False Conditional](https://www.youtube.com/watch?v=yE3mU5b8rBs&list=PLlTjr2CPUG18iBKGdoSQQsoJJeErVrqyY&index=5)  
+3.6 [Brute-force Prime](https://www.youtube.com/watch?v=GaeIDpdfpc0&index=6&list=PLlTjr2CPUG18iBKGdoSQQsoJJeErVrqyY)  
+3.7 [Efficient Prime Algorithm ](https://www.youtube.com/watch?v=oiXewIUjGVg&index=7&list=PLlTjr2CPUG18iBKGdoSQQsoJJeErVrqyY)  
+3.8 [Pure Recursion & Looping](https://www.youtube.com/watch?v=oLmamghbW_g&list=PLlTjr2CPUG18iBKGdoSQQsoJJeErVrqyY&index=8)
 
 Special playlist(s) :
 
@@ -46,7 +54,7 @@ Other learning resources :
 3. <a href="http://www.braveclojure.com" target="_blank">Clojure for the brave and true</a>  
 
 
-Easy/Quick installation : 
+Easy/Quick installation :
 
 1. JDK 1.8
 2. Download nightcode (search nightcode clojure)

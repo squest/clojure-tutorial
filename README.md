@@ -37,10 +37,11 @@ If you don't then try [this one](https://github.com/Zenius2016/BoardAlfa). Why C
 3.6 [Brute-force Prime](https://www.youtube.com/watch?v=GaeIDpdfpc0&index=6&list=PLlTjr2CPUG18iBKGdoSQQsoJJeErVrqyY)  
 3.7 [Efficient Prime Algorithm ](https://www.youtube.com/watch?v=oiXewIUjGVg&index=7&list=PLlTjr2CPUG18iBKGdoSQQsoJJeErVrqyY)  
 3.8 [Pure Recursion & Looping](https://www.youtube.com/watch?v=oLmamghbW_g&list=PLlTjr2CPUG18iBKGdoSQQsoJJeErVrqyY&index=8)
+4. [Higher Order Functions](https://www.youtube.com/playlist?list=PLlTjr2CPUG185iOkewp5i-uVoflhSrw_z)    
 
 Special playlist(s) :
 
-1. <a href="https://www.youtube.com/playlist?list=PLlTjr2CPUG19Yq3XMnjfquTQdltu2QOOM" target="_blank">Using Paredit to boost productivity</a> (as of now, it's still being uploaded).  
+1. <a href="https://www.youtube.com/playlist?list=PLlTjr2CPUG19Yq3XMnjfquTQdltu2QOOM" target="_blank">Using Paredit to boost productivity</a> (VERY IMPORTANT!).  
 
 Important exercises :
 

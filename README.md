@@ -45,6 +45,12 @@ Other learning resources :
 2. <a href="http://clojure-doc.org/articles/content.html" target="_blank">Clojure community tutorial</a>  
 3. <a href="http://www.braveclojure.com" target="_blank">Clojure for the brave and true</a>  
 
+
+Easy/Quick installation : 
+
+1. JDK 1.8
+2. Download nightcode (search nightcode clojure)
+
 Tools :
 
 1. <a href="http://www.java.com/en/download/manual.jsp">JVM</a>

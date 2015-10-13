@@ -1,8 +1,8 @@
 # Clojure Tutorial
 
-Clojure tutorial for ex-bocah2x zenx &amp; zenclub  
+Clojure tutorial in Bahasa Indonesia (video version)  
 
-This tutorial assumes you have an introductory programming background using Haskell.    
+This tutorial assumes you have an introductory programming background (preferrably using Haskell).
 If you don't then try [this one](https://github.com/Zenius2016/BoardAlfa). Why Clojure? [here](http://www.infoq.com/presentations/Simple-Made-Easy).
 
 ## Youtube Playlists (Table of content):

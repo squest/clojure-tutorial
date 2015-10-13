@@ -7,7 +7,7 @@ If you don't then try [this one](https://github.com/Zenius2016/BoardAlfa). Why C
 
 ## Youtube Playlists (Table of content):
 
-1. [Language Basic & REPL](https://youtu.be/NXxJavT7ILY?list=PLlTjr2CPUG1-tA4FMIGCCyJFGuZbB-gpq)  
+1. [Data types & Lexical Scope](https://youtu.be/NXxJavT7ILY?list=PLlTjr2CPUG1-tA4FMIGCCyJFGuZbB-gpq)  
  1.1 [Installation & Clojure Introduction](https://www.youtube.com/watch?v=NXxJavT7ILY&feature=youtu.be&list=PLlTjr2CPUG1-tA4FMIGCCyJFGuZbB-gpq)   
  1.2 [Basic Data Types & Operations](https://www.youtube.com/watch?v=h-e5epfgGp0&list=PLlTjr2CPUG1-tA4FMIGCCyJFGuZbB-gpq&index=2)  
  1.3 [Collections (List, Vector, Maps, Set)](https://www.youtube.com/watch?v=7uRzGD8h8b8&index=3&list=PLlTjr2CPUG1-tA4FMIGCCyJFGuZbB-gpq)  
@@ -16,10 +16,12 @@ If you don't then try [this one](https://github.com/Zenius2016/BoardAlfa). Why C
  1.6 [Exercise 2: List Manipulation ](https://www.youtube.com/watch?v=8F6lRTbePGA&list=PLlTjr2CPUG1-tA4FMIGCCyJFGuZbB-gpq&index=6)  
  1.7 [Exercise 3: Vector Manipulation](https://www.youtube.com/watch?v=3tM3P4_hz-c&index=7&list=PLlTjr2CPUG1-tA4FMIGCCyJFGuZbB-gpq)  
  1.8 [Exercise 4: Set and Maps ](https://www.youtube.com/watch?v=jHBexy6tVXU&list=PLlTjr2CPUG1-tA4FMIGCCyJFGuZbB-gpq&index=8)  
+ &nbsp;&nbsp;&nbsp;&nbsp;1.8.1 [`hash-map`](https://youtu.be/jHBexy6tVXU?t=19s)  
+  &nbsp;&nbsp;&nbsp;&nbsp;1.8.2 []()  
  1.9 [Exercise 5: Defining a Function](https://www.youtube.com/watch?v=g5EqfyzuYl8&index=9&list=PLlTjr2CPUG1-tA4FMIGCCyJFGuZbB-gpq)  
  &nbsp;&nbsp;&nbsp;&nbsp;1.9.1  [Function can beget another](https://youtu.be/g5EqfyzuYl8?list=PLlTjr2CPUG1-tA4FMIGCCyJFGuZbB-gpq&t=8m49s)  
  &nbsp;&nbsp;&nbsp;&nbsp;1.9.2 [Higher-order function take function arguments](https://youtu.be/g5EqfyzuYl8?t=16m16s)
-2. [Source Code](https://www.youtube.com/watch?v=KLgrUWyqGgw&feature=youtu.be&list=PLlTjr2CPUG187bvI0lY00K6n1GVbyFLdU)  
+2. [Recursions](https://www.youtube.com/watch?v=KLgrUWyqGgw&feature=youtu.be&list=PLlTjr2CPUG187bvI0lY00K6n1GVbyFLdU)  
 2.1 [How to Make Clojure File](https://www.youtube.com/watch?v=KLgrUWyqGgw&feature=youtu.be&list=PLlTjr2CPUG187bvI0lY00K6n1GVbyFLdU)  
 2.2 [4Clojure  Introduction](https://www.youtube.com/watch?v=ihX2k1Ig2q0&index=2&list=PLlTjr2CPUG187bvI0lY00K6n1GVbyFLdU)  
 2.3 [Conditional (`if` and `cond`) ](https://www.youtube.com/watch?v=o8wqw7A1xj8&list=PLlTjr2CPUG187bvI0lY00K6n1GVbyFLdU&index=3)  
@@ -28,7 +30,7 @@ If you don't then try [this one](https://github.com/Zenius2016/BoardAlfa). Why C
 2.6 [Clojure Evaluation Continue](https://www.youtube.com/watch?v=v8edssoaXuo&index=6&list=PLlTjr2CPUG187bvI0lY00K6n1GVbyFLdU)  
 2.7 [Recursion ex. Factorial](https://www.youtube.com/watch?v=VBqGy5E0LwY&list=PLlTjr2CPUG187bvI0lY00K6n1GVbyFLdU&index=7)  
 2.8 [Recursion Continue](https://www.youtube.com/watch?v=D4gft10cC_E&index=8&list=PLlTjr2CPUG187bvI0lY00K6n1GVbyFLdU)  
-3. [Clojure Expression](https://www.youtube.com/watch?v=74lhwCaL5_g&list=PLlTjr2CPUG18iBKGdoSQQsoJJeErVrqyY)  
+3. [Loop recur](https://www.youtube.com/watch?v=74lhwCaL5_g&list=PLlTjr2CPUG18iBKGdoSQQsoJJeErVrqyY)  
 3.1 [Function](https://www.youtube.com/watch?v=74lhwCaL5_g&list=PLlTjr2CPUG18iBKGdoSQQsoJJeErVrqyY)  
 3.2 [Data Structure](https://www.youtube.com/watch?v=IoJ22_Ro4M4&index=2&list=PLlTjr2CPUG18iBKGdoSQQsoJJeErVrqyY)  
 3.3 [`if` Conditional](https://www.youtube.com/watch?v=w7CR_rDC7tQ&list=PLlTjr2CPUG18iBKGdoSQQsoJJeErVrqyY&index=3)    
@@ -37,7 +39,11 @@ If you don't then try [this one](https://github.com/Zenius2016/BoardAlfa). Why C
 3.6 [Brute-force Prime](https://www.youtube.com/watch?v=GaeIDpdfpc0&index=6&list=PLlTjr2CPUG18iBKGdoSQQsoJJeErVrqyY)  
 3.7 [Efficient Prime Algorithm ](https://www.youtube.com/watch?v=oiXewIUjGVg&index=7&list=PLlTjr2CPUG18iBKGdoSQQsoJJeErVrqyY)  
 3.8 [Pure Recursion & Looping](https://www.youtube.com/watch?v=oLmamghbW_g&list=PLlTjr2CPUG18iBKGdoSQQsoJJeErVrqyY&index=8)
-4. [Higher Order Functions](https://www.youtube.com/playlist?list=PLlTjr2CPUG185iOkewp5i-uVoflhSrw_z)    
+4. [Higher Order Functions](https://www.youtube.com/playlist?list=PLlTjr2CPUG185iOkewp5i-uVoflhSrw_z)  
+4.1 [Idiomatic Clojure](https://www.youtube.com/watch?v=9rHL8yTWZQo&list=PLlTjr2CPUG185iOkewp5i-uVoflhSrw_z&index=1)   
+4.2 [Pattern `->` & `->>`](https://www.youtube.com/watch?v=25Xs7OdkQqk&list=PLlTjr2CPUG185iOkewp5i-uVoflhSrw_z&index=2)  
+4.3 [Pattern `map-indexed`, `keep`, & `filter`](https://www.youtube.com/watch?v=kH9m9h08090&index=3&list=PLlTjr2CPUG185iOkewp5i-uVoflhSrw_z)  
+4.4 [Global & Local Scope](https://www.youtube.com/watch?v=h5rSmJmn_U4&index=4&list=PLlTjr2CPUG185iOkewp5i-uVoflhSrw_z)  
 
 Special playlist(s) :
 

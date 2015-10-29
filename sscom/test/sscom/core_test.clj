@@ -1,6 +1,6 @@
 (ns sscom.core-test
   (:require [clojure.test :refer :all]
-            [sscom.core :refer :all]))
+            [sscom.server :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."

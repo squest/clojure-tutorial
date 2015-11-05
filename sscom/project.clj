@@ -11,4 +11,5 @@
                  [com.ashafa/clutch "0.4.0"]
                  [selmer "0.9.1"]
                  [couchbase-clj "0.2.0"]
-                 [com.stuartsierra/component "0.3.0"]])
+                 [com.stuartsierra/component "0.3.0"]]
+  :main sscom.core)

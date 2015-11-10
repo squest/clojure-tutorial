@@ -5,6 +5,11 @@ Clojure tutorial in Bahasa Indonesia (video version)
 This tutorial assumes you have an introductory programming background (preferrably using Haskell).
 If you don't then try [this one](https://github.com/Zenius2016/BoardAlfa). Why Clojure? [here](http://www.infoq.com/presentations/Simple-Made-Easy).
 
+## Easy/Quick installation :
+
+1. [JDK 1.8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) 
+2. [Download nightcode] (https://sekao.net/nightcode/)
+
 ## Youtube Playlists (Table of content):
 
 1. [Language Basic & REPL](https://youtu.be/NXxJavT7ILY?list=PLlTjr2CPUG1-tA4FMIGCCyJFGuZbB-gpq)  
@@ -54,11 +59,6 @@ Other learning resources :
 2. <a href="http://clojure-doc.org/articles/content.html" target="_blank">Clojure community tutorial</a>  
 3. <a href="http://www.braveclojure.com" target="_blank">Clojure for the brave and true</a>  
 
-
-Easy/Quick installation :
-
-1. [JDK 1.8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) 
-2. [Download nightcode] (https://sekao.net/nightcode/)
 
 Tools :
 

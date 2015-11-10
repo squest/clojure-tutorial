@@ -57,8 +57,8 @@ Other learning resources :
 
 Easy/Quick installation :
 
-1. JDK 1.8
-2. Download nightcode (search nightcode clojure)
+1. [JDK 1.8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) 
+2. [Download nightcode] (https://sekao.net/nightcode/)
 
 Tools :
 

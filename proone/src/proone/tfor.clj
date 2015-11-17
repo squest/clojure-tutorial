@@ -2,8 +2,6 @@
 
 ;; judulin : list comprehension
 
-
-
 (defn foo-one [n]
   (for [i (range n)
         j (range i n)
@@ -21,3 +19,5 @@
         :when (= (Math/floor c)
                  (Math/ceil c))]
     [a b (int c)]))
+
+

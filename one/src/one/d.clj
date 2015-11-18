@@ -90,7 +90,7 @@
 (defn collatz [n]
   (cond (== n 1) 1
         (even? n) (+ 1 (collatz (quot n 2)))
-        :else (+ 1 (collatz (+ 1 (* 3 n))))))
+        "else" (+ 1 (collatz (+ 1 (* 3 n))))))
 
 (defn sol14 [lim]
   (->> (range 1 lim)
@@ -101,30 +101,35 @@
 ;; sort-by group-by partition-by max-key merge-with
 ;; take-while drop-while reduce 
 
+(defn ^long sol5 [^long n]
+  (let [refs (to-array (range (inc n)))]
+    (doseq [i (range 2 (inc n))]
+      (let [ith (aget refs i)]
+        (doseq [j (range (* 2 i) (inc n) i)]
+          (aset refs j (quot (aget refs j) ith)))))
+    (reduce * (rest (into [] refs)))))
 
+(defn ^long sol5a [^long n]
+  (let [refs (to-array (range (inc n)))]
+    (loop [i (int 2) res (int 1)]
+      (if (> i n)
+        res
+        (let [ith (aget refs i)]
+          (loop [j (int (* 2 i))]
+            (when (<= j n)
+              (aset refs j (quot (aget refs j) ith))
+              (recur (+ j i))))
+          (recur (+ i 1) (* ith res)))))))
 
+(defn solve [f & args]
+  (dotimes [i 10]
+    (let [res (time (apply f args))]
+      (println res))))
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+(defn sol4 [lim]
+  (->> (for [i (range 900 lim)
+             j (range 900 i)
+             :let [p (* i j)]
+             :when (let [pst (seq (str p))]
+                     (= pst (reverse pst)))] p)
+       (apply max)))

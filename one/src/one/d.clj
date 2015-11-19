@@ -19,47 +19,41 @@
 (defn sol1a [lim]
   (->> (range lim)
        (filter #(or (zero? (rem % 3)) (zero? (rem % 5))))
-       (reduce +)
-       time))
+       (reduce +)))
 
 (defn sol1f [lim]
   (->> (range lim)
        (keep #(when (or (zero? (rem % 3)) (zero? (rem % 5))) %))
-       (reduce +)
-       time))
+       (reduce +)))
 
 (defn sol1b [lim]
-  (time (- (+ (reduce + (range 3 lim 3))
-              (apply + (range 5 lim 5)))
-           (reduce + (range 15 lim 15)))))
+  (- (+ (reduce + (range 3 lim 3))
+        (apply + (range 5 lim 5)))
+     (reduce + (range 15 lim 15))))
 
 (defn sol1c [lim]
   (->> (for [i (range lim)
              :when (or (zero? (rem i 3)) (zero? (rem i 5)))] i)
-       (reduce +)
-       time))
+       (reduce +)))
 
 (defn sol1d [lim]
-  (time (let [sum (atom 0)]
-          (dotimes [i lim]
-            (if (or (zero? (rem i 3)) (zero? (rem i 5)))
-              (reset! sum (+ @sum i))))
-          @sum)))
+  (let [sum (atom 0)]
+    (dotimes [i lim]
+      (if (or (zero? (rem i 3)) (zero? (rem i 5)))
+        (reset! sum (+ @sum i))))
+    @sum))
 
 (defn sol1e [lim]
-  (time (loop [i 1 sum 0]
-          (if (>= i lim)
-            sum
-            (if (or (zero? (rem i 3)) (zero? (rem i 5)))
-              (recur (+ i 1) (+ sum i))
-              (recur (+ i 1) sum))))))
+  (loop [i 1 sum 0]
+    (if (>= i lim)
+      sum
+      (if (or (zero? (rem i 3)) (zero? (rem i 5)))
+        (recur (+ i 1) (+ sum i))
+        (recur (+ i 1) sum)))))
 
-(defn fibo [n]
-  (if (<= n 1) 1 (+ (fibo (dec n)) (fibo (- n 2)))))
+(defn fibo [n] (if (<= n 1) 1 (+ (fibo (dec n)) (fibo (- n 2)))))
 
-(def mfibo
-  (memoize
-   (fn [n] (if (<= n 1) 1 (+ (mfibo (dec n)) (mfibo (- n 2)))))))
+(def mfibo (memoize (fn [n] (if (<= n 1) 1 (+ (mfibo (dec n)) (mfibo (- n 2)))))))
 
 (defn sol2a [lim]
   (->> (range)
@@ -74,8 +68,7 @@
        (map mfibo)
        (take-while (partial > lim))
        (filter even?)
-       (reduce +)
-       time))
+       (reduce +)))
 
 (defn lfibo [n]
   (->> (iterate #(let [[a b] %] [b (+' a b)]) [1 1])
@@ -95,8 +88,7 @@
 (defn sol14 [lim]
   (->> (range 1 lim)
        (map (juxt collatz identity))
-       (apply max-key first)
-       time))
+       (apply max-key first)))
 
 ;; sort-by group-by partition-by max-key merge-with
 ;; take-while drop-while reduce 

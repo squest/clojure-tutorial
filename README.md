@@ -42,7 +42,8 @@ If you don't then try [this one](https://github.com/Zenius2016/BoardAlfa). Why C
 3.6 [Brute-force Prime](https://www.youtube.com/watch?v=GaeIDpdfpc0&index=6&list=PLlTjr2CPUG18iBKGdoSQQsoJJeErVrqyY)  
 3.7 [Efficient Prime Algorithm ](https://www.youtube.com/watch?v=oiXewIUjGVg&index=7&list=PLlTjr2CPUG18iBKGdoSQQsoJJeErVrqyY)  
 3.8 [Pure Recursion & Looping](https://www.youtube.com/watch?v=oLmamghbW_g&list=PLlTjr2CPUG18iBKGdoSQQsoJJeErVrqyY&index=8)
-4. [Higher Order Functions](https://www.youtube.com/playlist?list=PLlTjr2CPUG185iOkewp5i-uVoflhSrw_z)    
+4. [Higher Order Functions](https://www.youtube.com/playlist?list=PLlTjr2CPUG185iOkewp5i-uVoflhSrw_z)  
+5. [For, side-effects, and many others](https://www.youtube.com/watch?v=CMicaVzbds4&list=PLlTjr2CPUG195scQQ6m0YMWIoXQy3e6rH)  
 
 Special playlist(s) :
 

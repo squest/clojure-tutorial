@@ -6,5 +6,4 @@
   :dependencies [[org.clojure/clojure "1.7.0"]
                  [com.hypirion/primes "0.2.1"]
                  [cheshire "5.5.0"]
-                 [danlentz/clj-uuid "0.1.6"]
-                 [couchbase-clj "0.2.0"]])
+                 [danlentz/clj-uuid "0.1.6"]])

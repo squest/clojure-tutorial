@@ -47,11 +47,11 @@ If you don't then try [this one](https://github.com/Zenius2016/BoardAlfa). Why C
 
 ## Special playlist(s) :
 
-[The examples for this part is on a different repo somehow](https://github.com/squest/Clojure-practical-examples)  
-
 1. <a href="https://www.youtube.com/playlist?list=PLlTjr2CPUG19Yq3XMnjfquTQdltu2QOOM" target="_blank">Using Paredit to boost productivity</a> (VERY IMPORTANT!).  
 
 ## Practical Clojure & Apps development
+
+The examples for this part is on a [different repo somehow](https://github.com/squest/Clojure-practical-examples)    
 
 1. [Basic practical Clojure](https://www.youtube.com/watch?v=BaRhEEWvoGk&index=1&list=PLlTjr2CPUG18jcaWKAiNlj6T4uZSgWUeg)  
 

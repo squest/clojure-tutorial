@@ -45,9 +45,13 @@ If you don't then try [this one](https://github.com/Zenius2016/BoardAlfa). Why C
 4. [Higher Order Functions](https://www.youtube.com/playlist?list=PLlTjr2CPUG185iOkewp5i-uVoflhSrw_z)  
 5. [For, side-effects, and many others](https://www.youtube.com/watch?v=CMicaVzbds4&list=PLlTjr2CPUG195scQQ6m0YMWIoXQy3e6rH)  
 
-Special playlist(s) :
+## Special playlist(s) :
 
 1. <a href="https://www.youtube.com/playlist?list=PLlTjr2CPUG19Yq3XMnjfquTQdltu2QOOM" target="_blank">Using Paredit to boost productivity</a> (VERY IMPORTANT!).  
+
+## Practical Clojure & Apps development
+
+1. [Basic practical Clojure](https://www.youtube.com/watch?v=BaRhEEWvoGk&index=1&list=PLlTjr2CPUG18jcaWKAiNlj6T4uZSgWUeg)  
 
 Important exercises :
 

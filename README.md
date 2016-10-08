@@ -5,12 +5,12 @@ Clojure tutorial in Bahasa Indonesia (video version)
 This tutorial assumes you have an introductory programming background (preferrably using Haskell).
 If you don't then try [this one](https://github.com/Zenius2016/BoardAlfa). Why Clojure? [here](http://www.infoq.com/presentations/Simple-Made-Easy).
 
-## Easy/Quick installation:
+## Easy/Quick installation
 
 1. [JDK 1.8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 2. [Download nightcode] (https://sekao.net/nightcode/)
 
-## Youtube Playlists (Table of content):
+## Youtube Playlists (Table of content)
 
 1. [Language Basic & REPL](https://youtu.be/NXxJavT7ILY?list=PLlTjr2CPUG1-tA4FMIGCCyJFGuZbB-gpq)  
  1.1 [Installation & Clojure Introduction](https://www.youtube.com/watch?v=NXxJavT7ILY&feature=youtu.be&list=PLlTjr2CPUG1-tA4FMIGCCyJFGuZbB-gpq)   
@@ -53,8 +53,16 @@ If you don't then try [this one](https://github.com/Zenius2016/BoardAlfa). Why C
   4.8 [High order fn, input fn: `every?`, `some`, `mapcat`, `iterate`](https://www.youtube.com/watch?v=nSJpRzVvUdE&list=PLlTjr2CPUG185iOkewp5i-uVoflhSrw_z&index=8)  
   4.9 [High order fn, output fn: soal generator. `comp`, `juxt`, `partial`](https://www.youtube.com/watch?v=tbMZnX5Nzd0&list=PLlTjr2CPUG185iOkewp5i-uVoflhSrw_z&index=9)
 5. [For, side-effects, and many others](https://www.youtube.com/watch?v=CMicaVzbds4&list=PLlTjr2CPUG195scQQ6m0YMWIoXQy3e6rH)  
+  5.1 [`for`](https://www.youtube.com/watch?v=6Z2mO0gX6cg&index=1&list=PLlTjr2CPUG195scQQ6m0YMWIoXQy3e6rH)  
+  5.2 [`for` continue](https://www.youtube.com/watch?v=reejSd_eGqM&index=2&list=PLlTjr2CPUG195scQQ6m0YMWIoXQy3e6rH)  
+  5.3 [`apply`, `reduce`, `eval`](https://www.youtube.com/watch?v=CMicaVzbds4&index=3&list=PLlTjr2CPUG195scQQ6m0YMWIoXQy3e6rH)  
+  5.4 [Impure function, side effect!. Finally `atom`, `reset!`, `@`, `dotimes`, `println`, `do`, `doseq`](https://www.youtube.com/watch?v=sPCbG_gJIpY&index=4&list=PLlTjr2CPUG195scQQ6m0YMWIoXQy3e6rH)  
+  5.5 [ProjectEuler No. 1](https://www.youtube.com/watch?v=hedoC801Hos&index=5&list=PLlTjr2CPUG195scQQ6m0YMWIoXQy3e6rH)  
+  5.6 [ProjectEuler No. 2, `memoize`](https://www.youtube.com/watch?v=xuZUISmaiiI&index=6&list=PLlTjr2CPUG195scQQ6m0YMWIoXQy3e6rH)  
+  5.7 [IO Side effect!, `slurp`, `read-string`, edn???](https://www.youtube.com/watch?v=IqD3kl86JkA&index=7&list=PLlTjr2CPUG195scQQ6m0YMWIoXQy3e6rH)  
+  5.8 [ProjectEuler No. 14, `max-key`, `juxt`](https://www.youtube.com/watch?v=A73GHXAVf2g&index=8&list=PLlTjr2CPUG195scQQ6m0YMWIoXQy3e6rH)  
 
-## Special playlist(s):
+## Special playlist(s)
 
 1. [Using Paredit to boost productivity](https://www.youtube.com/playlist?list=PLlTjr2CPUG19Yq3XMnjfquTQdltu2QOOM) (VERY IMPORTANT!).  
 
@@ -64,19 +72,19 @@ The examples for this part is on a [different repo somehow](https://github.com/s
 
 1. [Basic practical Clojure](https://www.youtube.com/watch?v=BaRhEEWvoGk&index=1&list=PLlTjr2CPUG18jcaWKAiNlj6T4uZSgWUeg)  
 
-## Important exercises:
+### Important exercises
 
 1. [4Clojure](http://www.4clojure.com)
 2. [Euler](http://www.projecteuler.ne)  
 
-## Other learning resources:
+### Other learning resources
 
 1. [Clojure cheat-sheet](https://clojuredocs.org/quickref)
 2. [Clojure community tutorial](http://clojure-doc.org/articles/content.html)
 3. [Clojure for the brave and true](http://www.braveclojure.com)
 
 
-## Tools:
+### Tools
 
 1. [JVM](http://www.java.com/en/download/manual.jsp)
 2. [Leiningen](http://leiningen.org/)
